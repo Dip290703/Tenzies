@@ -4,7 +4,7 @@ A fun and interactive dice game built using **React** and **Tailwind CSS**. Roll
 
 ## 🖥️ Demo
 
-👉 [Live Preview](https://your-live-link.com) *(replace with actual live link if hosted)*
+👉 [Live Preview](https://tenzies-beryl.vercel.app/) 
 
 ---
 
